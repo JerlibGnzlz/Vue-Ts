@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-success">
     <div class="container">
-      <router-link to="/" class="navbar-brand">Vue-Ts</router-link>
+      <router-link to="/" class="navbar-brand">Vue-Typescript</router-link>
       <div>
         <ul class="nav flex-column">
           <li class="nav-item ">
@@ -9,7 +9,7 @@
           </li>
           <li class="nav-item ">
             <router-link class="navbar-item text-black fw-bold text-decoration-none" to="/tasks/new">Crear
-              Tareas</router-link>
+              Tarea</router-link>
           </li>
         </ul>
       </div>
